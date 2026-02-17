@@ -1,0 +1,23 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+
+# Chroma database
+db/
+chroma.sqlite3
+
+# Environment variables
+.env
+
+# Ollama local models
+.ollama/
+
+# VS Code settings
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
