@@ -1,1 +1,1 @@
-AWS is a cloud platform by Amazon.
+AWS is Amazon Web Services, a cloud computing platform offering infrastructure and services.
